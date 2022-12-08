@@ -1,6 +1,6 @@
 Use the following questions to help guide your discussion.
 0. How does one write code in this language?
-Clock blocks together.
+Click blocks together.
 1. How does one run code in this language?
 Simply hit the start button
 2. Rate the complexity of the syntax?
